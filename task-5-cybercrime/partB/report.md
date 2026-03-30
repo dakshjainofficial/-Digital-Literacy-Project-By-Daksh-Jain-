@@ -1,0 +1,3 @@
+While researching cybercrime, what surprised me the most was how simple and convincing many scams can be. Phishing messages and fake payment requests often look very real, making it easy for anyone to fall victim, especially students who frequently use online platforms. I realized that even a small mistake, like clicking on an unknown link or sharing an OTP, can lead to serious financial loss or data theft.
+
+As a result, one habit I will personally change is being more cautious while handling online transactions and messages. I will always verify links and sources before taking any action and avoid responding to unknown or suspicious requests. This awareness will help me stay safer online and avoid potential cyber threats.
